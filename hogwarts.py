@@ -5,4 +5,4 @@ students = {
 "Draco": "Slytherine"}
 
 for student in students:
-	print(students)
+	print(student)
