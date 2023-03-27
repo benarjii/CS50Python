@@ -1,8 +1,5 @@
-students = {
-"Hermonie": "Gryffindor", 
-"Harry": "Gryffindor", 
-"Ron": "Gryffindor", 
-"Draco": "Slytherine"}
+students = [
+{"name": "Hermonie", "house": "gryffindor", "patronous": "Stag"}
+{"name": "Harry", "house": "gryffindor", "patronous": "otter"}
 
-for student in students:
-	print(students, students[student])
+]
